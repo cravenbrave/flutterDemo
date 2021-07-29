@@ -1,0 +1,22 @@
+[
+  {
+    "img" : "lib/images/john.jpg",
+    "ownerName": "John Smith",
+    "details":"Male, Haircut",
+    "time": "5/30 slots booked"
+  },
+
+  {
+    "img" : "lib/images/john.jpg",
+    "ownerName": "John Smith",
+    "details":"Male, Haircut",
+    "time": "5/30 slots booked"
+  },
+
+  {
+    "img" : "lib/images/john.jpg",
+    "ownerName": "John Smith",
+    "details":"Male, Haircut",
+    "time": "5/30 slots booked"
+  }
+]

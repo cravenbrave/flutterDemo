@@ -2,8 +2,10 @@
 <br/>
 Create a small flutter demo to realize the following layout:
 <p align="center">
-<img src= "https://github.com/cravenbrave/flutterDemo/blob/b3492b08ee75c4dd6ef4007c38d9a35aa12ce12e/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-07-29%20at%2017.25.28.png" width="300" height="600" align="middle"/>
+<img src= "https://github.com/cravenbrave/flutterDemo/blob/9ae6afb1b223c7ca93c225faf9f5ed175f97a13d/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2015.42.29.png" width="300" height="600" align="middle"/>
   </p>
+  <br/>
+  <p align="center"> Update the box background color to white (8/1/2021)</p>
 <br/><br/>
 Pre-requesit:<br/>
 Xcode 10.0 or above; Flutter 2.0 or above; IOS simulator and/or Andoird simulator; any IDEA, preferred IntellitJ & Android Studio.
